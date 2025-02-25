@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋, I'm Anjali Chennupati</h1>
+<h1 align="center">Hey 👋, I'm Anjali Chennupati</h1>
 
 ###
 
-<p align="center">Data Science | AI-Driven Solutions | LLMs & NLP | Cloud Computing | Research-Backed Development</p>
+<p align="center"><b>Data Science | AI-Driven Solutions | LLMs & NLP | Cloud Computing | Research-Backed Development</b></p>
 
 ###
 
