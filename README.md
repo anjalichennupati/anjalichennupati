@@ -77,8 +77,7 @@
 <div align="left">
   <img src="https://i.pcmag.com/imagery/reviews/03ET1vJXgWnmfrLZ7g542br-5.fit_scale.size_760x427.v1569475368.jpg" height="40" alt="javascript logo"  />
   <img width="1" />
-  <img src="https://p7.hiclipart.com/preview/820/213/149/5bbafa9a0d661.jpg" height="40" alt="kubernetes logo"  />
-  <img width="1" />
+ 
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40" alt="kubernetes logo"  />
 </div>
 
