@@ -6,11 +6,31 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">💫 About me</h2>
 
 ###
 
 <p align="left">I'm an AI, ML & NLP enthusiast with a strong focus on cloud computing, LLMs, and research-driven development. With a background in Computer Science and a specialization in Artificial Intelligence, I am passionate about leveraging machine learning and AI tools to solve real-world problems.</p>
+
+###
+<h2 align="left">🌐 Social</h2>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anjali-chennupati-839284248/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://scholar.google.com/citations?user=4MU_aSgAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar">
+  </a>
+  <a href="mailto:anjali.chennupati0308@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
+  <a href="https://anjalichennupati-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
 ###
 
@@ -82,7 +102,7 @@
 
 ###
 
-<h2 align="left">What I'm Up To</h2>
+<h2 align="left">🖥️ What I'm Up To</h2>
 
 ###
 
@@ -90,7 +110,7 @@
 
 ###
 
-<h2 align="left">Research & Publications</h2>
+<h2 align="left">📑 Research & Publications</h2>
 
 ###
 
