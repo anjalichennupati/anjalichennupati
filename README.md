@@ -106,7 +106,7 @@
 
 ###
 
-<p align="left">🔭 I'm currently working on AI-driven applications, focusing on LLMs, NLP, and cloud computing.<br>🌱 Exploring advanced retrieval-augmented generation (RAG) techniques and efficient model deployment.<br>💻 Enhancing my expertise in ML based Python, Java, and cloud-based AI infrastructures.<br>⚡Diving deeper into data science, machine learning, and large-scale data processing.<br>🚀 Check out my work at https://anjalichennupati-portfolio.netlify.app/<br>👯 Open to collaborating on research-driven AI, NLP, and full-stack development projects. If you have an idea that aligns, let’s build something impactful!</p>
+<p align="left">🔭 I'm currently working on AI-driven applications, focusing on LLMs, NLP, and cloud computing.<br>🌱 Exploring advanced retrieval-augmented generation (RAG) techniques and efficient model deployment.<br>💻 Enhancing my expertise in ML based Python, Java, and cloud-based AI infrastructures.<br>⚡Diving deeper into data science, machine learning, and large-scale data processing.<br>🚀 Check out my work at https://anjalichennupati.netlify.app/<br>👯 Open to collaborating on research-driven AI, NLP, and full-stack development projects. If you have an idea that aligns, let’s build something impactful!</p>
 
 ###
 
