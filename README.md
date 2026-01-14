@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center"><b>Data Science | AI-Driven Solutions | LLMs & NLP | Cloud Computing | Research-Backed Development</b></p>
+<p align="center"><b>Agentic AI | AI-Driven Solutions | LLMs & NLP | Cloud Computing | Research-Backed Development</b></p>
 
 ###
 
