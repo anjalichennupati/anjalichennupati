@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center"><b>Agentic AI | AI-Driven Solutions | LLMs & NLP | Cloud Computing | Research-Backed Development</b></p>
+<p align="center"><b>GenAI & Agentic Systems | AI-Driven Solutions | LLMs & NLP | Research-Backed Development</b></p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm an AI, ML & NLP enthusiast with a strong focus on cloud computing, LLMs, and research-driven development. With a background in Computer Science and a specialization in Artificial Intelligence, I am passionate about leveraging machine learning and AI tools to solve real-world problems.</p>
+<p align="left">I'm an AI Engineer with experience in building and deploying real-world user facing ML and GenAI systems — from LLM-powered applications and multi-agent workflows to scalable backend APIs optimized for latency, cost, and reliability. I am passionate about leveraging machine learning and AI tools to solve real-world problems.</p>
 
 ###
 <h2 align="left">🌐 Social</h2>
@@ -106,7 +106,16 @@
 
 ###
 
-<p align="left">🔭 I'm currently working on AI-driven applications, focusing on LLMs, NLP, and cloud computing.<br>🌱 Exploring advanced retrieval-augmented generation (RAG) techniques and efficient model deployment.<br>💻 Enhancing my expertise in ML based Python, Java, and cloud-based AI infrastructures.<br>⚡Diving deeper into data science, machine learning, and large-scale data processing.<br>🚀 Check out my work at https://anjalichennupati.netlify.app/<br>👯 Open to collaborating on research-driven AI, NLP, and full-stack development projects. If you have an idea that aligns, let’s build something impactful!</p>
+<p align="left">🔭 I work hands-on across the ML lifecycle — problem framing, modeling, system design, deployment and iteration under real user constraints.<ul>
+  <li>⚙️ Design and deploy production-grade LLM applications (RAG, AI Agents)</li>
+  <li>🧠 Build multi-agent workflows with backend APIs in end-to-end applications.</li>
+  <li>🧩 Combine classical ML with GenAI to personalize, rank, and reason over user data.</li>
+  <li>📚 Implement retrieval pipelines over documents, web data, and knowledge bases for grounded generation.</li>
+  <li>📊 Translate ML outputs into user-facing product impact.</li>
+</ul>
+👯 Open to collaborating on AI, NLP, and full-stack development projects. If you have an idea that aligns, let’s build something impactful!
+
+🔗 LinkedIn: https://www.linkedin.com/in/anjalichennupati/ </p>
 
 ###
 
@@ -114,6 +123,6 @@
 
 ###
 
-<p align="left">📖 Published multiple research papers in IEEE on AI, NLP, and machine learning applications as the primary author.<br>🧠 Topics include LLMs, RAG frameworks, deep learning, and predictive analytics.<br>🔗 Check out my work: https://scholar.google.com/citations?user=4MU_aSgAAAAJ&hl=en<br><br>📌 Ongoing Research & Innovations<br>✍️ Currently working on journal papers in RAG-LLM-based legal chatbots and AI-driven image-to-audio encryption & decryption.<br>🔖 Exploring patents on a MERN-based GI tagging and blockchain application.</p>
+<p align="left">📖 Published multiple research papers in IEEE on AI, NLP, and machine learning applications as the primary author.<br>🧠 Topics include LLMs, RAG frameworks, deep learning, and predictive analytics.<br>🔗 Check out my work: https://scholar.google.com/citations?user=4MU_aSgAAAAJ&hl=en<br><br>📌 Ongoing Research & Innovations<br>✍️ Most recently, I've been working on journal papers in RAG-LLM-based legal chatbots and AI-driven image-to-audio encryption & decryption.<br>🔖 Exploring patents on a MERN-based GI tagging and blockchain application.</p>
 
 ###
