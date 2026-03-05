@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center"><b>GenAI & Agentic Systems | AI-Driven Solutions | LLMs & NLP | Research-Backed Development</b></p>
+<p align="center"><b>GenAI & Agentic Systems | AI-Driven Solutions | LLMs | Applied ML | Research-Backed Development</b></p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm an AI Engineer with experience in building and deploying real-world user facing ML and GenAI systems — from LLM-powered applications and multi-agent workflows to scalable backend APIs optimized for latency, cost, and reliability. I am passionate about leveraging machine learning and AI tools to solve real-world problems.</p>
+<p align="left">I'm an ML Engineer, working at Zomato, with experience in building and deploying real-world user facing ML and GenAI systems — from LLM-powered user facing applications and multi-agent workflows to scalable backend APIs optimized for latency, cost, and reliability. I am passionate about leveraging machine learning and AI tools to solve real-world problems.</p>
 
 ###
 <h2 align="left">🌐 Social</h2>
